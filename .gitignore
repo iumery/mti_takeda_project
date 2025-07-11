@@ -1,0 +1,12 @@
+# .gitignore
+.DS_Store
+*.csv
+*.pkl
+*.pt
+*.txt
+__pycache__/
+__marimo__/
+labelimg*/
+yolodata/
+runs/
+archived/
