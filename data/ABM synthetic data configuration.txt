@@ -1,0 +1,11 @@
+The synthetic data is created using:
+
+r       =0.01,  # interactive radius of cells
+m       =0.02,  # std of E cell movement in one step
+N       =96,   # number of steps
+L       =1.0,   # size of the well
+k_on    =0.4,   # P(a pair of E, T cells bind | this pair of E, T cells are within interactive radius of each other)
+k_off   =0.3,   # P(C cell unbind to E, T cells)
+k_kill  =0.007,  # P(C cell kills T cells and returns to E cells)
+g_E     =0,     # percentage of E cells that duplicate in one step
+g_T     =0.007,  # percentage of T cells that duplicate in one step
