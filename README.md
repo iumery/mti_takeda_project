@@ -90,6 +90,10 @@ Contains presentation slides prepared for team meetings and reporting.
 
 Includes reference papers relevant to the project and model justification.
 
+### Paper Style / Folder
+
+Includes the final paper-style report of the project, containing all key results.
+
 ## License
 
 This repository is licensed under the MIT License. By contributing to this repository, you agree to license your contributions under the same terms.
